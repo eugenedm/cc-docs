@@ -1,6 +1,3 @@
 # cc-docs
 
-my reop
-
-1. aaa
-2. bbb
+This is the repo for my cc-docs
