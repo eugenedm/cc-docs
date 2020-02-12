@@ -2,5 +2,5 @@
 
 my reop
 
-1.aaa
-2.bbb
+1. aaa
+2. bbb
